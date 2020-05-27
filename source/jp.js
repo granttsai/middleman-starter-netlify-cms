@@ -1,0 +1,1 @@
+document.write("<a href=https://news.toshit.com/2019/10/habit.html><img src=https://2.bp.blogspot.com/-bBettfbK3Z8/XNuoM7ZLX_I/AAAAAAAAE5s/Ij7fmsnIVf8FAYFvYbVb6ull4DAxFwYbwCLcBGAs/s1600/app.png></a>");
