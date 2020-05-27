@@ -1,0 +1,1 @@
+document.write("<a href=https://korea.urcook.com/2019/05/yes.html><img src=https://3.bp.blogspot.com/-y0zhdYoc4jM/XNjUeaZXd2I/AAAAAAAAE0s/QwmVhrjhbjk4aDve3jdS1KQwqkKMEB4YgCLcBGAs/s1600/app.png></a>");
