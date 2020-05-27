@@ -1,1 +1,1 @@
-document.write("123");
+document.write("<span><a href='https://m.taphy.com/2019/09/perfect.html' target='_blank'>線上免費網路資源<br/>苦練日文必備的50個大補帖整理<br/>包含日文真人發音好用工具網站推薦<br/>或是幫助自己日語聽力提升的新聞網站<br/>也有無壓力學習<br/>以及聽免費童謠學日文的資源整理</a></span>");
